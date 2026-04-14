@@ -1,0 +1,12 @@
+__pycache__/
+*.session
+*.session-journal
+downloads/
+logs/
+*.csv
+*.mp4
+*.mkv
+*.srt
+*.zip
+*.rar
+test_*/
